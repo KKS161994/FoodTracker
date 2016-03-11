@@ -8,7 +8,7 @@
 //
 
 import UIKit
-
+//MARK: Table of Meals
 class MealTableViewController: UITableViewController {
     // MARK: Properties
     
